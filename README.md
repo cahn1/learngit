@@ -1,1 +1,1 @@
-This is Git class instruction.
+This is Git class.
